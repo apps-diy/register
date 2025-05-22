@@ -51,9 +51,7 @@ dependencies:
       url: https://github.com/peng8350/flutter_pulltorefresh
   carousel_slider: ^4.2.1
   inview_notifier_list: ^3.0.0
-  audioplayers: ^5.1.0
-  audio_video_progress_bar: ^2.0.0
-  flutter_phoenix: ^1.1.1
+
   easy_localization: ^3.0.2
   animated_text_kit: ^4.2.2
   record: ^4.4.4
@@ -64,7 +62,6 @@ dependencies:
   video_player: ^2.7.0
   shimmer: ^3.0.0
   get_storage: ^2.1.1
-  blurhash: ^1.1.1
   get: ^4.6.5
   video_thumbnail: ^0.5.3
   permission_handler: ^10.4.3
